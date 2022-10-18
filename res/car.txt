@@ -1,0 +1,4 @@
+CAR,com.gtsoft.study.carinfo.cars.DefaultCarInfo
+CAR2,com.gtsoft.study.carinfo.cars.CarInfo2
+CAR_EX,com.gtsoft.study.carinfo.cars.CarInfoEx
+SONATA,com.gtsoft.study.carinfo.cars.CarSonata
